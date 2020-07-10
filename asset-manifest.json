@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/yaser/static/css/main.fc29ecc5.chunk.css",
+    "main.js": "/yaser/static/js/main.ebc3ef61.chunk.js",
+    "main.js.map": "/yaser/static/js/main.ebc3ef61.chunk.js.map",
+    "runtime-main.js": "/yaser/static/js/runtime-main.ed310c5e.js",
+    "runtime-main.js.map": "/yaser/static/js/runtime-main.ed310c5e.js.map",
+    "static/css/2.97d3883c.chunk.css": "/yaser/static/css/2.97d3883c.chunk.css",
+    "static/js/2.083f2a37.chunk.js": "/yaser/static/js/2.083f2a37.chunk.js",
+    "static/js/2.083f2a37.chunk.js.map": "/yaser/static/js/2.083f2a37.chunk.js.map",
+    "index.html": "/yaser/index.html",
+    "precache-manifest.6237e9c60e9eaa0289517a367263a6e7.js": "/yaser/precache-manifest.6237e9c60e9eaa0289517a367263a6e7.js",
+    "service-worker.js": "/yaser/service-worker.js",
+    "static/css/2.97d3883c.chunk.css.map": "/yaser/static/css/2.97d3883c.chunk.css.map",
+    "static/css/main.fc29ecc5.chunk.css.map": "/yaser/static/css/main.fc29ecc5.chunk.css.map",
+    "static/js/2.083f2a37.chunk.js.LICENSE.txt": "/yaser/static/js/2.083f2a37.chunk.js.LICENSE.txt",
+    "static/media/cairo.jpg": "/yaser/static/media/cairo.b62ecbfd.jpg",
+    "static/media/images (1).jpg": "/yaser/static/media/images (1).d1fad644.jpg",
+    "static/media/logo.png": "/yaser/static/media/logo.b9c3d188.png",
+    "static/media/photos_صورة_عالية_الوضوح_للكعبة_20170830261656.jpg": "/yaser/static/media/photos_صورة_عالية_الوضوح_للكعبة_20170830261656.61ee5be1.jpg",
+    "static/media/statue-of-liberty-1210001_1920.jpg": "/yaser/static/media/statue-of-liberty-1210001_1920.c185ce1b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed310c5e.js",
+    "static/css/2.97d3883c.chunk.css",
+    "static/js/2.083f2a37.chunk.js",
+    "static/css/main.fc29ecc5.chunk.css",
+    "static/js/main.ebc3ef61.chunk.js"
+  ]
+}
